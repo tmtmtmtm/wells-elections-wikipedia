@@ -14,7 +14,7 @@ Q578772,Tessa Munt,Q9624,Liberal Democrats (UK),18662,Q3586935,General election 
 ,Chris Inchley,Q9630,Labour Party (UK),3780,Q3586935,General election 2015,4
 ,Jon Cousins,Q9669,Green Party of England and Wales,2331,Q3586935,General election 2015,5
 ,Paul Arnold,Q327591,Independent politician,83,Q3586935,General election 2015,6
-,Dave Dobbs,,,81,Q3586935,General election 2015,7
+,Dave Dobbs,Q98544775,Birthday,81,Q3586935,General election 2015,7
 ,Gypsy Watkins,Q327591,Independent (politician),76,Q3586935,General election 2015,8
 Q578772,Tessa Munt,Q9624,Liberal Democrats (UK),24560,Q215622,General election 2010,1
 Q333039,David Heathcoat-Amory,Q9626,Conservative Party (UK),23760,Q215622,General election 2010,2
@@ -118,8 +118,8 @@ Q13529917,Harry Greer,Q9626,Unionist Party (UK),9786,Q3042701,General election 1
 Q26689915,Robert Tudway,Q9626,Conservative Party (UK),187,Q3943728,General election 1852,1
 Q7529624,William Hayter,Q108700,Whigs (British political party),175,Q3943728,General election 1852,2
 Q15990106,John Alexander Kinglake,Q1687668,Radicals (UK),101,Q3943728,General election 1852,3
-Q5697772,Hedworth Jolliffe,Q9626,Conservative Party (UK),146,,"By-election, 21 November 1855",1
-Q15990106,John Alexander Kinglake,Q1687668,Radicals (UK),121,,"By-election, 21 November 1855",2
+Q5697772,Hedworth Jolliffe,Q9626,Conservative Party (UK),146,Q98544780,"By-election, 21 November 1855",1
+Q15990106,John Alexander Kinglake,Q1687668,Radicals (UK),121,Q98544780,"By-election, 21 November 1855",2
 Q6231363,John Edwards-Vaughan,Q499956,Tories (British political party),196,Q969827,General election 1830,1
 Q6244393,John Lee Lee,Q108700,Whigs (British political party),195,Q969827,General election 1830,2
 Q7324203,Richard Blakemore,Q499956,Tories (British political party),125,Q969827,General election 1830,3
