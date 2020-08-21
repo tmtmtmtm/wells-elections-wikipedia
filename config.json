@@ -1,0 +1,14 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Wells_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q874666",
+    "start": "1885",
+    "end": "9999"
+  }, {
+    "id": "Q56189389",
+    "start": "1801",
+    "end": "1868"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate"
+}
